@@ -8,7 +8,7 @@
 
 ### Group Members: ###
 * Goodness Adegbenro (u13046412)
-* Name Surname (Student number)
-* Name Surnmame (Student number)
-* Name Surnmame (Student number)
-* Name Surname (Student number)
+* Hlavutelo Maluleke (u12318109)
+* Lelethu Zazaza (u13028023)
+* Tshepiso Magagula (u12274195)
+* Xoliswa Ntshingila (u13410378)
